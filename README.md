@@ -22,6 +22,6 @@
 <a href="#">![whatsapp](https://img.shields.io/badge/whatsapp-green.svg?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 <a href="#">![instagram](https://img.shields.io/badge/instagram-red.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="#">![linkedin](https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="#">![twitter](https://img.shields.io/badge/twitter-%231572B6.svg?style=for-the-badge&logo=twitter&logoColor=white)</a>
-<a href="#">![twitter](https://img.shields.io/badge/twitter-%231572B6.svg?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="#">![twitter](https://img.shields.io/badge/google-black.svg?style=for-the-badge&logo=google&logoColor=white)</a>
+<a href="#">![telegram](https://img.shields.io/badge/telegram-%231572B6.svg?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
