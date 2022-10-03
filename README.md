@@ -11,7 +11,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SaaS](https://img.shields.io/badge/SaaS-%23323330.svg?style=for-the-badge&logo=SaaS&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-3670A0?style=for-the-badge&logo=django&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-3670A0?style=for-the-badge&logo=django&logoColor=yellow)
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
