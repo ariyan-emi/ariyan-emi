@@ -18,18 +18,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<ul class="justify-content-center">
-                                <li><a class="copyright-text" href="tel:+989162131081"><i aria-hidden="true" class="fa fa-whatsapp"></i></a>
-                                </li>
-                                <li><a class="copyright-text" href="#"><i aria-hidden="true" class="fa fa-github"></i></a>
-                                </li>
-                                <li><a class="copyright-text" href="#"><i aria-hidden="true" class="fa fa-google"></i></a>
-                                </li>
-                                <li><a class="copyright-text " href="#"><i aria-hidden="true"class="fa fa-instagram"></i></a></li>
-                                </li>
-                                <li><a class="copyright-text " href="#"><i aria-hidden="true"class="fa fa-telegram"></i></a></li>
-                                </li>
-                                <li><a class="copyright-text " href="#"><i aria-hidden="true"class="fa fa-linkedin"></i></a></li>
-                                </li>
-                                <li><a class="copyright-text " href="#"><i aria-hidden="true"class="fa fa-twitter"></i></a></li>
-</ul>
+![twitter](https://img.shields.io/badge/twitter-%2320232a.svg?style=for-the-badge&logo=twitter&logoColor=%2361DAFB)
