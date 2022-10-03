@@ -17,3 +17,8 @@
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="center">
+	<a href="https://twitter.com/TerryTangYuan"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+</p>
