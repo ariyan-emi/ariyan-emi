@@ -34,5 +34,5 @@
 <a href="#">![linkedin](https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="#">![twitter](https://img.shields.io/badge/google-black.svg?style=for-the-badge&logo=google&logoColor=white)</a>
 <a href="#">![telegram](https://img.shields.io/badge/telegram-%231572B6.svg?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="#">![Phone](https://img.shields.io/badge/phone-white.svg?style=for-the-badge&logo=phone&logoColor=black)</a>
+<a href="tel:+989162131081">![Phone Number](https://img.shields.io/badge/phone-white.svg?style=for-the-badge&logo=phone&logoColor=black)</a>
 
