@@ -19,6 +19,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center">
-	<a class="fa fa-github"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<li><a class="copyright-text " href="#"><i aria-hidden="true"class="fa fa-linkedin"></i></a></li>
+                                </li>
 	<a class="fa fa-github"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
