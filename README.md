@@ -3,7 +3,7 @@
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=WebVaVe&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 </p>
 <p align="justify">
-  <a href="https://github.com/DanielObara/github-readme-stats">
+  <a href="https://github.com/WebVaVe/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=DanielObara&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
