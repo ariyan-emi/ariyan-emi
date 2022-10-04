@@ -28,9 +28,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ### My Social Media
-<a href="#">![twitter](https://img.shields.io/badge/twitter-%231572B6.svg?style=for-the-badge&logo=twitter&logoColor=white)</a>
-<a href="#">![instagram](https://img.shields.io/badge/instagram-red.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="#">![linkedin](https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="#">![twitter](https://img.shields.io/badge/google-black.svg?style=for-the-badge&logo=google&logoColor=white)</a>
-<a href="#">![telegram](https://img.shields.io/badge/telegram-%231572B6.svg?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://twitter.com/WebVaVe">![twitter](https://img.shields.io/badge/twitter-%231572B6.svg?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://www.instagram.com/webvave">![instagram](https://img.shields.io/badge/instagram-red.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/web-vave-8b99a3251">![linkedin](https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:emami8637@gmail.com">![Google](https://img.shields.io/badge/google-black.svg?style=for-the-badge&logo=google&logoColor=white)</a>
+<a href="[https://telegram.me/ARIYANEM231](https://www.youtube.com/channel/UCdslCGbj8XKUFMTS08TJbsg)">![youtube](https://img.shields.io/badge/telegram-red.svg?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="tel:+989162131081">![whatsapp](https://img.shields.io/badge/whatsapp-green.svg?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
