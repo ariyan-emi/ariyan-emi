@@ -23,7 +23,7 @@
 ### My Social Media
 <a href="https://www.instagram.com/webvave">![instagram](https://img.shields.io/badge/instagram-red.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/ariyan-emami-8b99a3251">![linkedin](https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:emami8637@gmail.com">![Google](https://img.shields.io/badge/google-black.svg?style=for-the-badge&logo=google&logoColor=white)</a>
+<a href="mailto:emami8637@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://telegram.me/ARIYANEM231">![telegram](https://img.shields.io/badge/telegram-blue.svg?style=for-the-badge&logo=telegram&logoColor=white)</a>
 ### My Website
 <a href="https://webvave.ir">![WebVaVe](https://img.shields.io/badge/WebVaVe-000000?style=for-the-badge&logo=About.me&logoColor=purple)</a>
