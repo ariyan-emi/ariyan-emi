@@ -28,4 +28,4 @@
 <a href="https://www.youtube.com/channel/UCdslCGbj8XKUFMTS08TJbsg">![youtube](https://img.shields.io/badge/youtube-red.svg?style=for-the-badge&logo=youtube&logoColor=white)</a>
 <a href="https://telegram.me/ARIYANEM231">![telegram](https://img.shields.io/badge/telegram-blue.svg?style=for-the-badge&logo=telegram&logoColor=white)</a>
 ### My Website
-<a href="https://webvave.ir">![WebVaVe](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=purple)</a>
+<a href="https://webvave.ir">![WebVaVe](https://img.shields.io/badge/WebVaVe-000000?style=for-the-badge&logo=About.me&logoColor=purple)</a>
