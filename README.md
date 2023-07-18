@@ -6,11 +6,6 @@
       src="https://github-readme-stats.vercel.app/api?username=WebVaVe&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
     />
   </a>
-  <a href="https://github.com/WebVaVe/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebVaVe&layout=compact&theme=radical" />
-  </a>  
 </p>
 
 ### Programming & Markdown, Styling Languages, Frameworks, Platforms and Libraries
