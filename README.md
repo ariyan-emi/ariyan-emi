@@ -5,7 +5,7 @@
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=ariyan-emi&show_icons=true&hide_border=true" alt="ariyan Emami GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ariyan-emi.ariyan-emi" alt="visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ariyan-emi" alt="visitors">
 </div>
 
 
