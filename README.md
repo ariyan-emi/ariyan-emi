@@ -1,7 +1,14 @@
 ### My Stats
-<p align="justify">
-    <img height="150" src="https://camo.githubusercontent.com/9fe004557feac6148b789466d867f1b471255e89a33e28476bda4ebe0e451df7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d57656256615665266c61796f75743d636f6d70616374267468656d653d7261646963616c" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan-emi&amp;layout=compact&amp;theme=radical" style="max-width: 100%;">
-</p>
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ruppysuppy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
+</div>
+
+
 
 ### Programming & Markdown, Styling Languages, Frameworks, Platforms and Libraries
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
