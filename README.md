@@ -1,5 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm <span style="font-size: 1.25rem;line-height: 1.75rem;font-weight: 700;color: #D97706;"><a href="https://webvave.ir">Ariyan Emami</a></span>, The Founder Of <span style="font-size: 1.25rem;line-height: 1.75rem;font-weight: 700;"><a href="https://webvave.ir">WebVaVe</a></span></h1>
-### My Stats
+# 👨‍💻 About Me :
+[![WebSite](https://img.shields.io/badge/WebSite-162451?style=for-the-badge)](https://webvave.ir)
+[![Github](https://img.shields.io/github/followers/taqinasiri?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/ariyan-emi) 
+[![Profile Views](https://komarev.com/ghpvc/?username=taqinasiri&&style=for-the-badge)](https://github.com/ariyan-emi) </br>
+[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariyan-emami-8b99a3251/)
+[![Send Mail](https://img.shields.io/badge/taqinasiri@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:emami8637@gmail.com)
+
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ariyan-emi&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />  
