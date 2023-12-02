@@ -2,10 +2,10 @@
 
 # 👨‍💻 About Me :
 [![WebSite](https://img.shields.io/badge/WebSite-162451?style=for-the-badge)](https://webvave.ir)
-[![Github](https://img.shields.io/github/followers/taqinasiri?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/ariyan-emi) 
-[![Profile Views](https://komarev.com/ghpvc/?username=taqinasiri&&style=for-the-badge)](https://github.com/ariyan-emi) </br>
+[![Github](https://img.shields.io/github/followers/ariyan-emi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/ariyan-emi) 
+[![Profile Views](https://komarev.com/ghpvc/?username=ariyan-emi&&style=for-the-badge)](https://github.com/ariyan-emi) </br>
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariyan-emami-8b99a3251/)
-[![Send Mail](https://img.shields.io/badge/taqinasiri@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:emami8637@gmail.com)
+[![Send Mail](https://img.shields.io/badge/ariyan-emi@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:emami8637@gmail.com)
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ariyan-emi&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
