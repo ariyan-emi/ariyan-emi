@@ -9,15 +9,13 @@
 <a href="mailto:emami8637@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://telegram.me/ARIYANEM231">![telegram](https://img.shields.io/badge/telegram-blue.svg?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ariyan-emi&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />  
+
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ariyan-emi&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Ariyan Emami Language stats" />
 </a>
 </div>
-</div>
+
 
 
 
