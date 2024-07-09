@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/ariyan_frontend">![instagram](https://img.shields.io/badge/instagram-red.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/ariyan-emami">![linkedin](https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:emami8637@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://telegram.me/ARIYANEM231">![telegram](https://img.shields.io/badge/telegram-blue.svg?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://telegram.me/ARIYANEM231">![telegram](https://img.shields.io/badge/Messenger-green?style=for-the-badge&logo=messenger&logoColor=white)</a>
 
 
 <div align="center"> 
