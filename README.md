@@ -7,8 +7,7 @@
 <a href="https://www.instagram.com/ariyan_frontend">![instagram](https://img.shields.io/badge/instagram-red.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/ariyan-emami">![linkedin](https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:emami8637@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="tel:+989162131081">![telegram](https://img.shields.io/badge/Phone_Number-239120?style=for-the-badge&logo=dialogflow&logoColor=white)</a>
-
+<a href="tel:+989162131081"><img src="massage.svg" alt="Phone Number"/></a>
 
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
