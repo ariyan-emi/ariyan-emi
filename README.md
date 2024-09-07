@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm <span style="font-size: 1.25rem;line-height: 1.75rem;font-weight: 700;color: #D97706;"><a href="https://ariyanem.ir">Ariyan Emami</a></span></h1>
 👨‍💻  My Website : 
 
-<a href="https://ariyanem.ir">![WebVaVe](https://img.shields.io/badge/WebVaVe-000000?style=for-the-badge&logo=About.me&logoColor=purple)</a>
+<a href="https://ariyanem.ir">![Ariayn](https://img.shields.io/badge/Ariyan-000000?style=for-the-badge&logo=About.me&logoColor=purple)</a>
 
 ### My Social Media
 <a href="https://www.instagram.com/ariyan_frontend">![instagram](https://img.shields.io/badge/instagram-red.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
